@@ -1,0 +1,47 @@
+body{
+    background:url(Images/H1.png) no-repeat;
+    background: width 100%;
+}
+.top{
+	display: flex;
+}
+.close{
+	margin-left: 40%;
+	padding-top: 30px;
+
+}
+.close i{
+	color: #ffd93e;
+	font-size: 35px;
+	
+}
+.close i:hover{
+    color: #ffffff;
+}
+.main{
+  width: 70%;
+  margin-left: 16%;
+  background: rgba(0, 0, 0, 0.5);
+}
+h1{
+	font-size:38px;
+	color: #ffd93e;
+	margin-left: 45%;
+}
+.logo{
+    height: 150px;
+}
+.logo img{
+    width: 250px;
+    margin-left: 35%;
+}
+.contacts{
+	color: #ffffff;
+	font-size: 28px;
+	margin-left: 9%;
+}
+.paragraph{
+margin-left: 9%;
+font-size: 27px;
+color: #ffd93e;
+}

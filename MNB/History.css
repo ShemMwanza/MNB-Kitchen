@@ -1,0 +1,47 @@
+body{
+    background:url(Images/H1.png) no-repeat;
+    background: width 100%;
+}
+h1{
+	font-size:38px;
+	color: #ffd93e;
+	margin-left: 45%;
+}
+th, td {
+        border:none;
+        padding: 10px;
+        text-align: left;
+        color: #ffd93e;
+        font-size: 20px;
+    }
+table {
+  width: 70%;
+  margin-left: 16%;
+  background: rgba(0, 0, 0, 0.5);
+  
+}
+
+th {
+  height: 70px;
+  color: #ffffff;
+}
+.close{
+	margin-left: 40%;
+	padding-top: 30px;
+
+}
+.close i{
+	color: #ffd93e;
+	font-size: 35px;
+	
+}
+.close i:hover{
+    color: #ffffff;
+}
+.top{
+	display: flex;
+}
+p{
+  color: #ffffff;
+  font-size: 20px;
+}

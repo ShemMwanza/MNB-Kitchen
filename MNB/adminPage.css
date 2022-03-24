@@ -1,0 +1,73 @@
+body {
+
+    background:url(Images/H.png) no-repeat;    
+    background: width 100%; 
+}
+.navigation-bar
+{   
+    display: flex;
+    padding: 10px 10px;
+    height: 100px;
+}
+
+.eat {
+    font-size: 30px;
+    color: #ffd93e;
+    margin-left: 76%;
+}
+
+.Options i{
+    top: 50px;
+    height: 20px;
+    width: 30px;
+    color: #ffd93e;
+    position: absolute;
+    font-size: 25px;
+    cursor: pointer;
+    
+}
+.Options i:hover{
+    color: #ffffff;
+}
+
+.sidebar {
+    height: 100%; 
+    width: 0; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0;
+    left: 0;
+    background-color: #794c20; 
+    overflow-x: hidden; 
+    padding-top: 60px; 
+    transition: 0.5s; 
+  }
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ffd93e;
+    cursor: pointer;
+    display: block;
+    transition: 0.3s;
+  }
+  .sidebar a:hover {
+    cursor: pointer;
+    color: #ffffff;
+  }
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+ 
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }  
+  
+ 
+ 
+

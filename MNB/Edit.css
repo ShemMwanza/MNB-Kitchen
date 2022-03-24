@@ -1,0 +1,98 @@
+
+.Loginbox{
+	
+    width: 380px; 
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 1%;
+    padding:20px;
+    margin-left: 35%;
+    margin-top:5%;
+    padding-left: 5%;
+    padding-right: 0%;
+    height: 20%;
+	color: #ffd93e;
+}
+.title-edit h1{
+
+    font-size: 35px;
+    padding-left: 30%;
+    
+    margin-bottom: 50px;
+    
+
+}
+.Email input{
+    height: 20px;
+    width: 80%;
+    background: none;
+    border: hidden;
+    border-bottom: 3px solid;
+    border-bottom-color: #ffd93e;
+    outline:none;
+    font-size: 18px;
+    color:#ffffff;
+	
+}
+.Username input{
+    height: 20px;
+    width: 80%;
+    background: none;
+    border: hidden;
+    border-bottom: 3px solid;
+    border-bottom-color: #ffd93e;
+    outline:none;
+    font-size: 18px;
+    color:#ffffff;
+}
+.password input{
+    height: 20px;
+    width: 80%;
+    background: none;
+    border: none;
+    border-bottom: 3px solid;
+    border-bottom-color: #ffd93e;
+    outline:none;
+    font-size: 18px;
+    color:#ffffff;
+
+}
+.dob input{
+    height: 20px;
+    width: 80%;
+    background: none;
+    border: hidden;
+    border-bottom: 3px solid;
+    border-bottom-color: #ffd93e;
+    outline:none;
+    font-size: 18px;
+    color:#ffffff;
+}
+.Email h2{
+    width: 12px;
+    font-size: 21px;
+}
+.password h3{
+    width: 10px;
+    font-size: 21px;
+}
+.logbutton button{
+    background-color: #ffd93e;
+    border-radius: 20px;
+    width: 80%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    height: 40px;
+    border: none;
+
+}
+.signuplink a{
+
+    font-size: 15px;
+    padding-left: 20%;
+    color: #f1da7a;
+    text-align: center;
+    margin-top: 20px;
+    
+
+}
